@@ -1,6 +1,6 @@
 package com.backend.jvmworkshop.module.category_car.usecase;
 
-import com.backend.jvmworkshop.module.car_service.exception.ResourceNotFound;
+import com.backend.jvmworkshop.module.util.exception.ResourceNotFound;
 import com.backend.jvmworkshop.module.category_car.domain.CategoryCar;
 import com.backend.jvmworkshop.module.category_car.repository.CategoryCarRepository;
 import org.springframework.beans.factory.annotation.Autowired;

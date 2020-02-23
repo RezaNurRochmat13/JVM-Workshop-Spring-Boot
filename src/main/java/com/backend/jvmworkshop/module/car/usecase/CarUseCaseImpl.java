@@ -1,8 +1,8 @@
-package com.backend.jvmworkshop.module.car_service.usecase;
+package com.backend.jvmworkshop.module.car.usecase;
 
-import com.backend.jvmworkshop.module.car_service.dao.Car;
-import com.backend.jvmworkshop.module.car_service.exception.ResourceNotFound;
-import com.backend.jvmworkshop.module.car_service.repository.CarRepository;
+import com.backend.jvmworkshop.module.car.dao.Car;
+import com.backend.jvmworkshop.module.util.exception.ResourceNotFound;
+import com.backend.jvmworkshop.module.car.repository.CarRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

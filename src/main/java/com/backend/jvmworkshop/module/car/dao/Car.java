@@ -1,4 +1,4 @@
-package com.backend.jvmworkshop.module.car_service.dao;
+package com.backend.jvmworkshop.module.car.dao;
 
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;

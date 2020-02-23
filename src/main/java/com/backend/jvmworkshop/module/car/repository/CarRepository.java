@@ -1,6 +1,6 @@
-package com.backend.jvmworkshop.module.car_service.repository;
+package com.backend.jvmworkshop.module.car.repository;
 
-import com.backend.jvmworkshop.module.car_service.dao.Car;
+import com.backend.jvmworkshop.module.car.dao.Car;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

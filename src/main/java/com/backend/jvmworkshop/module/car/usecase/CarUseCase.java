@@ -1,6 +1,6 @@
-package com.backend.jvmworkshop.module.car_service.usecase;
+package com.backend.jvmworkshop.module.car.usecase;
 
-import com.backend.jvmworkshop.module.car_service.dao.Car;
+import com.backend.jvmworkshop.module.car.dao.Car;
 
 import java.util.List;
 import java.util.Optional;
